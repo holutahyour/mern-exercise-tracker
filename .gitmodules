@@ -1,0 +1,3 @@
+[submodule "exercise-tracker-frontend"]
+	path = exercise-tracker-frontend
+	url = https://github.com/holutahyour/mern-exercise-tracker
